@@ -1,0 +1,11 @@
+2025-06-18 01:25:54,442 - INFO - 
+Testing URL 1/3: https://www.allrecipes.com/recipe/8626/yummy-honey-chicken-kabobs/
+2025-06-18 01:25:54,442 - ERROR - Failed to test https://www.allrecipes.com/recipe/8626/yummy-honey-chicken-kabobs/: 'RecipeExtractor' object has no attribute 'test_extraction'
+2025-06-18 01:25:54,442 - INFO - 
+Testing URL 2/3: https://food52.com/recipes/93397-smoke-grilled-chicken-with-bourbon-peach-glaze
+2025-06-18 01:25:54,442 - ERROR - Failed to test https://food52.com/recipes/93397-smoke-grilled-chicken-with-bourbon-peach-glaze: 'RecipeExtractor' object has no attribute 'test_extraction'
+2025-06-18 01:25:54,459 - INFO - 
+Testing URL 3/3: https://copykat.com/bojangles-biscuits/
+2025-06-18 01:25:54,460 - ERROR - Failed to test https://copykat.com/bojangles-biscuits/: 'RecipeExtractor' object has no attribute 'test_extraction'
+2025-06-18 01:25:54,461 - INFO - 
+Detailed results saved to C:\Users\user\Downloads\recipe\TestExtraction\results\extraction_results_20250618_012554.json
