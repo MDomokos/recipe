@@ -29,7 +29,7 @@ source venv/bin/activate
 pip install -r requirements.txt
 ```
 
-## Requirements (Not required for .exe)
+## Requirements
 
 - Python 3.x
 - PyQt6
@@ -39,23 +39,7 @@ pip install -r requirements.txt
 - Pillow (PIL)
 - requests
 
-## Installation (Not required for .exe)
-
-1. Clone this repository:
-```bash
-git clone [repository-url]
-```
-
-2. Install the required dependencies:
-```bash
-pip install PyQt6 beautifulsoup4 ebooklib recipe-scrapers Pillow requests
-```
-
 ## Usage
-
-1. Run the RecipeConverter.exe
-
-or
 
 1. Run the main converter:
 ```bash
@@ -90,7 +74,3 @@ If a recipe fails to extract:
 ## Contributing
 
 Feel free to submit issues, fork the repository, and create pull requests for any improvements.
-
-## License
-
-[Insert license here]
