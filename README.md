@@ -13,6 +13,22 @@ A powerful tool that converts recipes from websites into beautiful, organized EP
 - Progress tracking for batch processing
 - Error handling and reporting
 
+## Installation
+
+1. Install dependencies (Python 3.8+ recommended):
+
+```bash
+pip install -r requirements.txt
+```
+
+2. (Optional) For development, consider using a virtual environment:
+
+```bash
+python -m venv venv
+source venv/bin/activate
+pip install -r requirements.txt
+```
+
 ## Requirements (Not required for .exe)
 
 - Python 3.x

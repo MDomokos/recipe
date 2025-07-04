@@ -1,0 +1,5 @@
+PyQt6
+Pillow
+bs4
+ebooklib
+recipe-scrapers
